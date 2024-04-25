@@ -10,7 +10,7 @@ LeafyLogs is an innovative web application designed to create a digital library 
    Keep detailed notes on each plant's progress, peculiarities, and care history in a personalized diary format.
 
 # Motivation
-The motivation behind LeafyLogs is to provide plant enthusiasts, from beginners to expert botanists, with a tool to monitor and manage their plant care more efficiently. As houseplants have different needs, keeping track of each plant's care schedule can be challenging. GreenGlimpse makes it easier and more enjoyable to maintain a healthy indoor garden.
+The motivation behind LeafyLogs is to provide plant enthusiasts, from beginners to expert botanists, with a tool to monitor and manage their plant care more efficiently. As houseplants have different needs, keeping track of each plant's care schedule can be challenging. LeafyLogs makes it easier and more enjoyable to maintain a healthy indoor garden.
 
 # Technical Stack
  # Frontend: 
